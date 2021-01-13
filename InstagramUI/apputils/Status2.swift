@@ -1,5 +1,5 @@
 //
-//  Status.swift
+//  Status2.swift
 //  InstagramUI
 //
 //  Created by Asadulla Juraev on 13.01.2021.
